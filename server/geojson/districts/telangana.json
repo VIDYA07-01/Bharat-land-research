@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "_note": "DEMO GEOSPATIAL DATA – Simplified approximate district boundaries for Telangana.",
+  "state": "Telangana",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Hyderabad", "state": "Telangana", "hq": "Hyderabad", "region": "Telangana" },
+      "geometry": { "type": "Polygon", "coordinates": [[[78.20,17.20],[78.70,17.20],[78.70,17.60],[78.20,17.60],[78.20,17.20]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Warangal Urban", "state": "Telangana", "hq": "Warangal", "region": "Telangana" },
+      "geometry": { "type": "Polygon", "coordinates": [[[79.30,17.80],[80.00,17.80],[80.00,18.50],[79.30,18.50],[79.30,17.80]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Karimnagar", "state": "Telangana", "hq": "Karimnagar", "region": "Telangana" },
+      "geometry": { "type": "Polygon", "coordinates": [[[78.80,18.30],[79.50,18.30],[79.50,18.90],[78.80,18.90],[78.80,18.30]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nizamabad", "state": "Telangana", "hq": "Nizamabad", "region": "Telangana" },
+      "geometry": { "type": "Polygon", "coordinates": [[[77.80,18.20],[78.50,18.20],[78.50,18.90],[77.80,18.90],[77.80,18.20]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Mahbubnagar", "state": "Telangana", "hq": "Mahbubnagar", "region": "Telangana" },
+      "geometry": { "type": "Polygon", "coordinates": [[[77.50,16.50],[78.50,16.50],[78.50,17.20],[77.50,17.20],[77.50,16.50]]] }
+    }
+  ]
+}

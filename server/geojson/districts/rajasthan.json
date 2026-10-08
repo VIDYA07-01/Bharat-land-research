@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "_note": "DEMO GEOSPATIAL DATA – Simplified approximate district boundaries for Rajasthan.",
+  "state": "Rajasthan",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Jaipur", "state": "Rajasthan", "hq": "Jaipur", "region": "Eastern Rajasthan" },
+      "geometry": { "type": "Polygon", "coordinates": [[[75.50,26.50],[76.50,26.50],[76.50,27.50],[75.50,27.50],[75.50,26.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Jodhpur", "state": "Rajasthan", "hq": "Jodhpur", "region": "Western Rajasthan" },
+      "geometry": { "type": "Polygon", "coordinates": [[[72.50,26.00],[73.50,26.00],[73.50,27.00],[72.50,27.00],[72.50,26.00]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Udaipur", "state": "Rajasthan", "hq": "Udaipur", "region": "Southern Rajasthan" },
+      "geometry": { "type": "Polygon", "coordinates": [[[73.20,24.00],[74.50,24.00],[74.50,25.00],[73.20,25.00],[73.20,24.00]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bikaner", "state": "Rajasthan", "hq": "Bikaner", "region": "North-West Rajasthan" },
+      "geometry": { "type": "Polygon", "coordinates": [[[72.00,27.50],[73.50,27.50],[73.50,29.00],[72.00,29.00],[72.00,27.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kota", "state": "Rajasthan", "hq": "Kota", "region": "Hadoti" },
+      "geometry": { "type": "Polygon", "coordinates": [[[75.50,24.50],[76.50,24.50],[76.50,25.50],[75.50,25.50],[75.50,24.50]]] }
+    }
+  ]
+}

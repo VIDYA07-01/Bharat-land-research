@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "_note": "DEMO GEOSPATIAL DATA – Simplified approximate district boundaries for Maharashtra.",
+  "state": "Maharashtra",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Mumbai", "state": "Maharashtra", "hq": "Mumbai", "region": "Konkan" },
+      "geometry": { "type": "Polygon", "coordinates": [[[72.74,18.85],[73.00,19.00],[73.00,19.30],[72.74,19.30],[72.74,18.85]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Pune", "state": "Maharashtra", "hq": "Pune", "region": "Western Maharashtra" },
+      "geometry": { "type": "Polygon", "coordinates": [[[73.50,18.00],[74.50,18.00],[74.50,19.00],[73.50,19.00],[73.50,18.00]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nagpur", "state": "Maharashtra", "hq": "Nagpur", "region": "Vidarbha" },
+      "geometry": { "type": "Polygon", "coordinates": [[[78.50,20.50],[79.50,20.50],[79.50,21.50],[78.50,21.50],[78.50,20.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nashik", "state": "Maharashtra", "hq": "Nashik", "region": "Northern Maharashtra" },
+      "geometry": { "type": "Polygon", "coordinates": [[[73.50,19.50],[74.80,19.50],[74.80,20.50],[73.50,20.50],[73.50,19.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Aurangabad", "state": "Maharashtra", "hq": "Aurangabad", "region": "Marathwada" },
+      "geometry": { "type": "Polygon", "coordinates": [[[74.80,19.50],[76.00,19.50],[76.00,20.50],[74.80,20.50],[74.80,19.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Solapur", "state": "Maharashtra", "hq": "Solapur", "region": "Western Maharashtra" },
+      "geometry": { "type": "Polygon", "coordinates": [[[75.50,17.00],[76.50,17.00],[76.50,18.00],[75.50,18.00],[75.50,17.00]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Amravati", "state": "Maharashtra", "hq": "Amravati", "region": "Vidarbha" },
+      "geometry": { "type": "Polygon", "coordinates": [[[76.80,20.80],[78.00,20.80],[78.00,21.50],[76.80,21.50],[76.80,20.80]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kolhapur", "state": "Maharashtra", "hq": "Kolhapur", "region": "Western Maharashtra" },
+      "geometry": { "type": "Polygon", "coordinates": [[[73.80,16.00],[74.80,16.00],[74.80,17.00],[73.80,17.00],[73.80,16.00]]] }
+    }
+  ]
+}

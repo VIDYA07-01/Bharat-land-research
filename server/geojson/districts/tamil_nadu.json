@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "_note": "DEMO GEOSPATIAL DATA – Simplified approximate district boundaries for Tamil Nadu.",
+  "state": "Tamil Nadu",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Chennai", "state": "Tamil Nadu", "hq": "Chennai", "region": "Northern Tamil Nadu" },
+      "geometry": { "type": "Polygon", "coordinates": [[[80.10,12.90],[80.50,12.90],[80.50,13.30],[80.10,13.30],[80.10,12.90]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Coimbatore", "state": "Tamil Nadu", "hq": "Coimbatore", "region": "Western Tamil Nadu" },
+      "geometry": { "type": "Polygon", "coordinates": [[[76.80,10.60],[77.60,10.60],[77.60,11.30],[76.80,11.30],[76.80,10.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Madurai", "state": "Tamil Nadu", "hq": "Madurai", "region": "Southern Tamil Nadu" },
+      "geometry": { "type": "Polygon", "coordinates": [[[77.60,9.60],[78.50,9.60],[78.50,10.30],[77.60,10.30],[77.60,9.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Salem", "state": "Tamil Nadu", "hq": "Salem", "region": "Central Tamil Nadu" },
+      "geometry": { "type": "Polygon", "coordinates": [[[77.50,11.30],[78.30,11.30],[78.30,12.00],[77.50,12.00],[77.50,11.30]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tiruchirapalli", "state": "Tamil Nadu", "hq": "Trichy", "region": "Central Tamil Nadu" },
+      "geometry": { "type": "Polygon", "coordinates": [[[78.30,10.60],[79.20,10.60],[79.20,11.30],[78.30,11.30],[78.30,10.60]]] }
+    }
+  ]
+}
